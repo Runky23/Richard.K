@@ -1,0 +1,80 @@
+
+body {
+    width: 100%;
+    background:white;
+    color:black;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  h1{
+    border-style: hidden;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
+  
+  img {
+    border-radius: 80px; 
+  }
+  
+  table {
+       border: none;
+  }
+  
+  tr:hover {
+        background-color: rgb(235, 156, 53);
+  }
+  
+  .tdcolor {
+    background:rgb(18, 48, 218);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 3px;
+    color: white;
+  }
+  
+  a:link {
+    text-decoration: none;
+  }
+  
+  .fa {
+    padding: 10px;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%; 
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: purple;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #3B5998;
+    color: white;
+    }
+  
+    .fa-github {
+      background: grey;
+      color: white;
+      }
+  
+      .fa-envelope {
+        background:rgb(226, 31, 31);
+        color: white;
+        }
+  
+  
